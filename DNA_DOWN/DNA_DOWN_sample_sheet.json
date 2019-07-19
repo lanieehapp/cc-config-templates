@@ -1,0 +1,11 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "gvcf": null,
+                "gvcf_idx": null,
+                "qc_report": null
+            }
+        }
+    ]
+}
