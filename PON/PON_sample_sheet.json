@@ -1,0 +1,15 @@
+{
+    "paired_end": true, 
+    "seq_platform": "Illumina", 
+    "samples": [
+        {
+            "paths": {
+                "bam": "gs://analysis_results/6019/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6019/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            },
+            "is_tumor": false, 
+            "name": "11894_N_1",
+            "lib_name": "SUB_11894_N_1"
+        }
+    ]
+}
