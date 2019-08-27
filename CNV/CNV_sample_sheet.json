@@ -1,0 +1,24 @@
+{
+    "paired_end": true, 
+    "seq_platform": "Illumina", 
+    "samples": [
+        {
+            "paths": {
+                "bam": "gs://analysis_results/3209/MakeFinalBam/MakeFinalBam_MergeBams.bam",
+                "bam_idx": "gs://analysis_results/3209/MakeFinalBam/MakeFinalBam_MergeBams.bam.bai"
+            },
+            "is_tumor": true, 
+            "name": "2969_A",
+            "lib_name": "SUB_26314"
+        },
+        {
+            "paths": {
+                "bam": "gs://analysis_results/1367/MakeFinalBam/MakeFinalBam_MergeBams.bam",
+                "bam_idx": "gs://analysis_results/1367/MakeFinalBam/MakeFinalBam_MergeBams.bam.bai"
+            },
+            "is_tumor": true, 
+            "name": "4946_A",
+            "lib_name": "SUB_26315"
+        }
+    ]
+}
