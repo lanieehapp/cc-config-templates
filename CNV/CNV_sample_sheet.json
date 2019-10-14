@@ -2,8 +2,30 @@
     "samples": [
         {
             "paths": {
-                "bam": null,
-                "bam_idx": null
+                "bam": {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["picard", "dna"]
+                        }
+                    ]
+                },
+                "bam_idx":  {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["picard", "dna"]
+                        }
+                    ]
+                }
             }
         }
     ]
