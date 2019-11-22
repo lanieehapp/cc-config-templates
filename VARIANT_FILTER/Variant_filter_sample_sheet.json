@@ -1,14 +1,14 @@
 {
-    "paired_end": true, 
-    "seq_platform": "Illumina", 
+    "paired_end": null,
+    "seq_platform": null,
     "samples": [
         {
             "paths": {
                 "recoded_vcf": null
             },
-            "is_tumor": null,
+            "lib_name": null,
             "name": null,
-            "lib_name": null
+            "is_tumor": null
         }
     ]
 }
