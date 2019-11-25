@@ -4,7 +4,8 @@
     "samples": [
         {
             "paths": {
-                "recoded_vcf": null
+                "recoded_vcf": null,
+                "annotated_expression_file": null
             },
             "lib_name": null,
             "name": null,
