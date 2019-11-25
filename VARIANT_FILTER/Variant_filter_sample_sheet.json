@@ -5,7 +5,7 @@
         {
             "paths": {
                 "recoded_vcf": null,
-                "annotated_expression_file": null
+                "annotated_expression_file": ["rawcounts"]
             },
             "lib_name": null,
             "name": null,
