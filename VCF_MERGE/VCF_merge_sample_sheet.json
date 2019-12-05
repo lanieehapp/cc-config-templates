@@ -2,7 +2,12 @@
     "samples": [
         {
             "paths": {
-                "vcf": "dna"
+                "vcf": {
+                    "operation": "AND",
+                    "values": [
+                        "haplotypecaller", "dna"
+                    ]
+                }
             }
         }
     ]
