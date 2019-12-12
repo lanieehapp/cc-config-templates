@@ -1,0 +1,15 @@
+{
+    "paired_end": null,
+    "seq_platform": null,
+    "samples": [
+        {
+            "paths": {
+                "R1": null,
+                "R2": null
+            }, 
+            "is_tumor": null,
+            "name": null,
+            "lib_name": null
+        }
+    ]
+}
