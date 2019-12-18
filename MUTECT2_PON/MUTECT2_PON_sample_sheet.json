@@ -1,6 +1,7 @@
 {
     "samples": [
         {
+            "is_tumor": null,
             "paths": {
                 "bam": {
                     "operation": "OR",
