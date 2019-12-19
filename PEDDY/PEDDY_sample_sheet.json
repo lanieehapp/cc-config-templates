@@ -1,0 +1,14 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "vcf": {
+                    "operation": "AND",
+                    "values": [
+                        "vcfmerger", "dna"
+                    ]
+                }
+            }
+        }
+    ]
+}
