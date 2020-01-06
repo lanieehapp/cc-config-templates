@@ -1,0 +1,36 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "bam": {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["picard", "dna"]
+                        }
+                    ]
+                },
+                "bam_idx":  {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["picard", "dna"]
+                        }
+                    ]
+                }
+            },
+            "lib_name": null,
+            "sample_name": null,
+            "sample_id": null,
+            "is_tumor": null
+        }
+    ]
+}
