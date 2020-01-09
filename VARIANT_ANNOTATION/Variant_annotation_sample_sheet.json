@@ -4,8 +4,7 @@
     "samples": [
         {
             "paths": {
-                "vcf_gz": null,
-                "vcf_tbi": null
+                "vcf_gz": "filtermutectcalls"
             },
             "lib_name": null,
             "sample_name": null,
