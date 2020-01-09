@@ -1,15 +1,9 @@
 {
-    "paired_end": null,
-    "seq_platform": null,
     "samples": [
         {
             "paths": {
                 "vcf_gz": "filtermutectcalls"
-            },
-            "lib_name": null,
-            "sample_name": null,
-            "sample_id": null,
-            "is_tumor": null
+            }
         }
     ]
 }
