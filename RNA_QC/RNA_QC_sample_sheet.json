@@ -11,7 +11,7 @@
                         "mergebams",
                         "makefinalbam",
                         {
-                            "operation": "OR",
+                            "operation": "AND",
                             "values": ["picard", "rna"]
                         }
                     ]
@@ -23,7 +23,7 @@
                         "mergebams",
                         "makefinalbam",
                         {
-                            "operation": "OR",
+                            "operation": "AND",
                             "values": ["picard", "rna"]
                         }
                     ]
