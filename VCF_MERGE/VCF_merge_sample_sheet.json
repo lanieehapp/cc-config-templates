@@ -3,9 +3,26 @@
         {
             "paths": {
                 "vcf": {
-                    "operation": "AND",
+                    "operation": "OR",
                     "values": [
-                        "haplotypecaller", "dna"
+                        {
+                            "operation": "AND",
+                            "values": [
+                                "haplotypecaller", "dna"
+                            ]
+                        },
+                        {
+                            "operation": "AND",
+                            "values": [
+                                "strelka", "dna"
+                            ]
+                        },
+                        {
+                            "operation": "AND",
+                            "values": [
+                                "deepvariant", "dna"
+                            ]
+                        }
                     ]
                 }
             }
