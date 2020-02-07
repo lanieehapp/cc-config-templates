@@ -1,0 +1,18 @@
+{
+    "paired_end": null,
+    "seq_platform": null,
+    "samples": [
+        {
+            "paths": {
+                "normalized_gene_counts": {
+                    "operation": "AND",
+                    "values": ["abcgcbscore","spliced captured exonic"]
+                }
+            },
+            "lib_name": null,
+            "sample_name": null,
+            "sample_id": null,
+            "is_tumor": null
+        }
+    ]
+}
