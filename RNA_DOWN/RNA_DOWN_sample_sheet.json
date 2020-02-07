@@ -7,7 +7,8 @@
                 "isoforms_results": null,
                 "genes_results": null,
                 "normalized_gene_counts": {
-                    "values": "original"
+                    "operation": "AND",
+                    "values": ["abcgcbscore","original"]
                 }
             }, 
             "name": null
