@@ -6,7 +6,7 @@
                 "raw_read_counts": null,
                 "isoforms_results": null,
                 "genes_results": null,
-                "normalized_gene_read_counts": null
+                "normalized_gene_counts": null
             }, 
             "name": null
         }
