@@ -3,6 +3,7 @@
         {
             "paths": {
                 "vcf": {
+                    "operation": "AND",
                     "values": ["haplotypecaller", "dna"]
                 },
                 "vcf_gz": {
