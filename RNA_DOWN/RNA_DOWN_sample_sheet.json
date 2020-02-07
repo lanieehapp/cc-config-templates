@@ -5,7 +5,8 @@
                 "qc_report": null,
                 "raw_read_counts": null,
                 "isoforms_results": null,
-                "genes_results": null
+                "genes_results": null,
+                "normalized_gene_read_counts": null
             }, 
             "name": null
         }
