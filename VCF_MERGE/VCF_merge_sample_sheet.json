@@ -2,13 +2,15 @@
     "samples": [
         {
             "paths": {
-                "vcf": {
-                    "operation": "AND",
-                    "values": ["haplotypecaller", "dna"]
-                },
                 "vcf_gz": {
                     "operation": "OR",
                     "values": [
+                        {
+                            "operation": "AND",
+                            "values": [
+                                "haplotypecaller", "dna"
+                            ]
+                        },
                         {
                             "operation": "AND",
                             "values": [
