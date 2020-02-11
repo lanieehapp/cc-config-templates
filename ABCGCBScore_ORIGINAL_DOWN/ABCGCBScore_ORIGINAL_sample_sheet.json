@@ -12,9 +12,7 @@
             "lib_name": null,
             "sample_name": null,
             "sample_id": null,
-            "is_tumor": null,
-            "diagnosis": null,
-            "nickname": null
+            "is_tumor": null
         }
     ]
 }
