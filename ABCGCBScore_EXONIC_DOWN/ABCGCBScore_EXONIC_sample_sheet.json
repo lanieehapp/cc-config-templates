@@ -6,7 +6,7 @@
             "paths": {
                 "normalized_gene_counts": {
                     "operation": "AND",
-                    "values": ["abcgcbscore","exonic"]
+                    "values": ["abcgcbscore","exonicoverlap"]
                 }
             },
             "lib_name": null,
