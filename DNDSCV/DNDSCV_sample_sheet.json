@@ -4,7 +4,7 @@
 			"sample_name": null,
 			"sample_id": null,
 			"paths":{
-				"vcf_txt": null
+				"recoded_vcf": null
 			}
 		}
 	]
