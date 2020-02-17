@@ -1,74 +1,10 @@
 {
-	"samples":
-	[
+	"samples": [
 		{
-			"sample_name":"832_A",
-			"sample_id":"hc_832_A",
+			"sample_name": null,
+			"sample_id": null,
 			"paths":{
-				"vcf_txt":"gs://analysis_results/9897/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"4357_A",
-			"sample_id":"hc_4357_A",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/9983/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"830_A",
-			"sample_id":"hc_830_A",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/10295/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"3746_A",
-			"sample_id":"hc_3746_A",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/9858/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"3398_B",
-			"sample_id":"hc_3398_B",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/9442/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"3555_A",
-			"sample_id":"hc_3555_A",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/9651/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"2239_B",
-			"sample_id":"hc_2239_B",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/8619/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"3831_A",
-			"sample_id":"hc_3831_A",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/10311/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"3452_B",
-			"sample_id":"hc_3452_B",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/9339/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
-			}
-		},
-		{
-			"sample_name":"2215_B",
-			"sample_id":"hc_2215_B",
-			"paths":{
-				"vcf_txt":"gs://analysis_results/8669/utils_recodevcf__dna/utils_recodevcf__dna_Utils_RecodeVCF.recoded.vcf.txt"
+				"vcf_txt": null
 			}
 		}
 	]
