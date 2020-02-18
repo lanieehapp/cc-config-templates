@@ -6,7 +6,7 @@
             "paths": {
                 "normalized_gene_counts": {
                     "operation": "AND",
-                    "values": ["abcgcbscore","splicedcapturedexonic"]
+                    "values": ["abcgcbscore","splicedcapturedexonicoverlap"]
                 }
             },
             "lib_name": null,
