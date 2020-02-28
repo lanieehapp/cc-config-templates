@@ -5,12 +5,30 @@
         {
             "paths": {
                 "R1": {
-                    "operation": "AND",
-                    "values": ["getdemuxfastq", "dnafastqs"]
+                    "operation": "OR",
+                    "values": [
+                        {
+                            "operation": "AND",
+                            "values": ["get","dna", "fastq"]
+                        },
+                        {
+                            "operation": "AND",
+                            "values": ["getdemuxfastq", "dnafastqs"]
+                        }
+                    ]
                 },
                 "R2":  {
-                    "operation": "AND",
-                    "values": ["getdemuxfastq", "dnafastqs"]
+                    "operation": "OR",
+                    "values": [
+                        {
+                            "operation": "AND",
+                            "values": ["get","dna", "fastq"]
+                        },
+                        {
+                            "operation": "AND",
+                            "values": ["getdemuxfastq", "dnafastqs"]
+                        }
+                    ]
                 }
             },
             "lib_name": null,
