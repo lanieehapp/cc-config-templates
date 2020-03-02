@@ -1,0 +1,816 @@
+{
+    "samples": [
+        {
+            "name": "12288_T_1_A6106",
+            "paths": {
+                "bam": "gs://analysis_results/6106/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6106/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16276_T_1_A6105",
+            "paths": {
+                "bam": "gs://analysis_results/6105/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6105/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16269_T_1_A6104",
+            "paths": {
+                "bam": "gs://analysis_results/6104/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6104/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16265_T_1_A6103",
+            "paths": {
+                "bam": "gs://analysis_results/6103/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6103/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "18975_T_1_A6102",
+            "paths": {
+                "bam": "gs://analysis_results/6102/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6102/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "18970_T_1_A6101",
+            "paths": {
+                "bam": "gs://analysis_results/6101/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6101/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16014_T_1_A6100",
+            "paths": {
+                "bam": "gs://analysis_results/6100/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6100/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "18185_T_1_A6099",
+            "paths": {
+                "bam": "gs://analysis_results/6099/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6099/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "21286_T_1_A6098",
+            "paths": {
+                "bam": "gs://analysis_results/6098/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6098/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16428_T_1_A6097",
+            "paths": {
+                "bam": "gs://analysis_results/6097/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6097/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "18332_T_1_A6096",
+            "paths": {
+                "bam": "gs://analysis_results/6096/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6096/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16272_T_1_A6095",
+            "paths": {
+                "bam": "gs://analysis_results/6095/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6095/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16025_T_1_A6094",
+            "paths": {
+                "bam": "gs://analysis_results/6094/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6094/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16442_T_1_A6093",
+            "paths": {
+                "bam": "gs://analysis_results/6093/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6093/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "18184_T_1_A6092",
+            "paths": {
+                "bam": "gs://analysis_results/6092/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6092/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "19246_T_1_A6091",
+            "paths": {
+                "bam": "gs://analysis_results/6091/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6091/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "17663_T_1_A6090",
+            "paths": {
+                "bam": "gs://analysis_results/6090/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6090/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16266_T_1_A6089",
+            "paths": {
+                "bam": "gs://analysis_results/6089/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6089/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "17106_T_1_A6088",
+            "paths": {
+                "bam": "gs://analysis_results/6088/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6088/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16604_T_1_A6087",
+            "paths": {
+                "bam": "gs://analysis_results/6087/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6087/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16267_T_1_A6086",
+            "paths": {
+                "bam": "gs://analysis_results/6086/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6086/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "11602_T_1_A6085",
+            "paths": {
+                "bam": "gs://analysis_results/6085/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6085/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16439_T_1_A6084",
+            "paths": {
+                "bam": "gs://analysis_results/6084/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6084/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "21280_T_1_A6083",
+            "paths": {
+                "bam": "gs://analysis_results/6083/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6083/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16013_T_1_A6082",
+            "paths": {
+                "bam": "gs://analysis_results/6082/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6082/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16262_T_1_A6081",
+            "paths": {
+                "bam": "gs://analysis_results/6081/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6081/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "20266_T_1_A6080",
+            "paths": {
+                "bam": "gs://analysis_results/6080/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6080/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "17175_T_1_A6079",
+            "paths": {
+                "bam": "gs://analysis_results/6079/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6079/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13922_T_1_A6078",
+            "paths": {
+                "bam": "gs://analysis_results/6078/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6078/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13854_T_1_A6077",
+            "paths": {
+                "bam": "gs://analysis_results/6077/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6077/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "14867_T_1_A6076",
+            "paths": {
+                "bam": "gs://analysis_results/6076/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6076/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "15356_T_1_A6075",
+            "paths": {
+                "bam": "gs://analysis_results/6075/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6075/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "14872_T_1_A6074",
+            "paths": {
+                "bam": "gs://analysis_results/6074/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6074/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "14869_T_1_A6073",
+            "paths": {
+                "bam": "gs://analysis_results/6073/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6073/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "14865_T_1_A6072",
+            "paths": {
+                "bam": "gs://analysis_results/6072/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6072/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12092_T_1_A6071",
+            "paths": {
+                "bam": "gs://analysis_results/6071/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6071/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "11894_T_1_A6070",
+            "paths": {
+                "bam": "gs://analysis_results/6070/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6070/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "20215_T_1_A6069",
+            "paths": {
+                "bam": "gs://analysis_results/6069/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6069/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13939_T_1_A6068",
+            "paths": {
+                "bam": "gs://analysis_results/6068/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6068/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13930_T_1_A6067",
+            "paths": {
+                "bam": "gs://analysis_results/6067/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6067/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12217_T_1_A6066",
+            "paths": {
+                "bam": "gs://analysis_results/6066/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6066/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16264_T_1_A6065",
+            "paths": {
+                "bam": "gs://analysis_results/6065/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6065/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "14870_T_1_A6064",
+            "paths": {
+                "bam": "gs://analysis_results/6064/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6064/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13937_T_1_A6063",
+            "paths": {
+                "bam": "gs://analysis_results/6063/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6063/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13933_T_1_A6062",
+            "paths": {
+                "bam": "gs://analysis_results/6062/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6062/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12091_T_1_A6061",
+            "paths": {
+                "bam": "gs://analysis_results/6061/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6061/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "11155_T_1_A6060",
+            "paths": {
+                "bam": "gs://analysis_results/6060/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6060/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "19085_T_1_A6059",
+            "paths": {
+                "bam": "gs://analysis_results/6059/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6059/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13929_T_1_A6058",
+            "paths": {
+                "bam": "gs://analysis_results/6058/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6058/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12287_T_1_A6057",
+            "paths": {
+                "bam": "gs://analysis_results/6057/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6057/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13940_T_1_A6056",
+            "paths": {
+                "bam": "gs://analysis_results/6056/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6056/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13824_T_1_A6055",
+            "paths": {
+                "bam": "gs://analysis_results/6055/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6055/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "17864_T_1_A6054",
+            "paths": {
+                "bam": "gs://analysis_results/6054/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6054/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13923_T_1_A6053",
+            "paths": {
+                "bam": "gs://analysis_results/6053/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6053/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12173_T_1_A6052",
+            "paths": {
+                "bam": "gs://analysis_results/6052/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6052/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "11158_T_1_A6051",
+            "paths": {
+                "bam": "gs://analysis_results/6051/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6051/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13866_T_1_A6050",
+            "paths": {
+                "bam": "gs://analysis_results/6050/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6050/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "10959_T_1_A6049",
+            "paths": {
+                "bam": "gs://analysis_results/6049/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6049/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13932_T_1_A6048",
+            "paths": {
+                "bam": "gs://analysis_results/6048/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6048/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13867_T_1_A6047",
+            "paths": {
+                "bam": "gs://analysis_results/6047/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6047/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12090_T_1_A6046",
+            "paths": {
+                "bam": "gs://analysis_results/6046/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6046/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "19086_T_1_A6045",
+            "paths": {
+                "bam": "gs://analysis_results/6045/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6045/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12526_T_1_A6044",
+            "paths": {
+                "bam": "gs://analysis_results/6044/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6044/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12088_T_1_A6043",
+            "paths": {
+                "bam": "gs://analysis_results/6043/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6043/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "20262_T_1_A6042",
+            "paths": {
+                "bam": "gs://analysis_results/6042/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6042/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "14864_T_1_A6041",
+            "paths": {
+                "bam": "gs://analysis_results/6041/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6041/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "14863_T_1_A6040",
+            "paths": {
+                "bam": "gs://analysis_results/6040/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6040/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13935_T_1_A6039",
+            "paths": {
+                "bam": "gs://analysis_results/6039/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6039/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13921_T_1_A6038",
+            "paths": {
+                "bam": "gs://analysis_results/6038/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6038/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12292_T_1_A6037",
+            "paths": {
+                "bam": "gs://analysis_results/6037/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6037/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12283_T_1_A6036",
+            "paths": {
+                "bam": "gs://analysis_results/6036/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6036/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "20313_T_1_A6035",
+            "paths": {
+                "bam": "gs://analysis_results/6035/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6035/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "15399_T_1_A6034",
+            "paths": {
+                "bam": "gs://analysis_results/6034/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6034/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13928_T_1_A6033",
+            "paths": {
+                "bam": "gs://analysis_results/6033/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6033/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "15398_T_1_A6032",
+            "paths": {
+                "bam": "gs://analysis_results/6032/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6032/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "14868_T_1_A6031",
+            "paths": {
+                "bam": "gs://analysis_results/6031/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6031/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13938_T_1_A6030",
+            "paths": {
+                "bam": "gs://analysis_results/6030/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6030/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13931_T_1_A6029",
+            "paths": {
+                "bam": "gs://analysis_results/6029/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6029/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13920_T_1_A6028",
+            "paths": {
+                "bam": "gs://analysis_results/6028/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6028/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12284_T_1_A6027",
+            "paths": {
+                "bam": "gs://analysis_results/6027/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6027/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "11000_T_1_A6026",
+            "paths": {
+                "bam": "gs://analysis_results/6026/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6026/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "11895_T_1_A6025",
+            "paths": {
+                "bam": "gs://analysis_results/6025/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6025/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13927_T_1_A6024",
+            "paths": {
+                "bam": "gs://analysis_results/6024/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6024/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13925_T_1_A6023",
+            "paths": {
+                "bam": "gs://analysis_results/6023/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6023/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12089_T_1_A6021",
+            "paths": {
+                "bam": "gs://analysis_results/6021/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6021/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12087_T_1_A6020",
+            "paths": {
+                "bam": "gs://analysis_results/6020/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6020/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "20307_T_1_A6018",
+            "paths": {
+                "bam": "gs://analysis_results/6018/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6018/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13936_T_1_A6017",
+            "paths": {
+                "bam": "gs://analysis_results/6017/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6017/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12291_T_1_A6016",
+            "paths": {
+                "bam": "gs://analysis_results/6016/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6016/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12172_T_1_A6015",
+            "paths": {
+                "bam": "gs://analysis_results/6015/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6015/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16250_T_1_A6014",
+            "paths": {
+                "bam": "gs://analysis_results/6014/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6014/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13573_T_1_A6013",
+            "paths": {
+                "bam": "gs://analysis_results/6013/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6013/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13571_T_1_A6012",
+            "paths": {
+                "bam": "gs://analysis_results/6012/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6012/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "19084_T_1_A6011",
+            "paths": {
+                "bam": "gs://analysis_results/6011/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6011/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16261_T_1_A6010",
+            "paths": {
+                "bam": "gs://analysis_results/6010/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6010/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12420_T_1_A6009",
+            "paths": {
+                "bam": "gs://analysis_results/6009/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6009/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16036_T_1_A6008",
+            "paths": {
+                "bam": "gs://analysis_results/6008/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6008/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13941_T_1_A6007",
+            "paths": {
+                "bam": "gs://analysis_results/6007/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6007/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16260_T_1_A6006",
+            "paths": {
+                "bam": "gs://analysis_results/6006/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6006/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13926_T_1_A6005",
+            "paths": {
+                "bam": "gs://analysis_results/6005/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6005/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12290_T_1_A6004",
+            "paths": {
+                "bam": "gs://analysis_results/6004/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6004/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13934_T_1_A6003",
+            "paths": {
+                "bam": "gs://analysis_results/6003/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6003/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "20213_T_1_A6002",
+            "paths": {
+                "bam": "gs://analysis_results/6002/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6002/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "13924_T_1_A6001",
+            "paths": {
+                "bam": "gs://analysis_results/6001/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6001/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12364_T_1_A6000",
+            "paths": {
+                "bam": "gs://analysis_results/6000/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/6000/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12294_T_1_A5999",
+            "paths": {
+                "bam": "gs://analysis_results/5999/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5999/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "15339_T_1_A5998",
+            "paths": {
+                "bam": "gs://analysis_results/5998/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5998/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16238_T_1_A5997",
+            "paths": {
+                "bam": "gs://analysis_results/5997/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5997/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "15394_T_1_A5996",
+            "paths": {
+                "bam": "gs://analysis_results/5996/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5996/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12360_T_1_A5995",
+            "paths": {
+                "bam": "gs://analysis_results/5995/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5995/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12359_T_1_A5994",
+            "paths": {
+                "bam": "gs://analysis_results/5994/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5994/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "18244_T_1_A5993",
+            "paths": {
+                "bam": "gs://analysis_results/5993/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5993/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "16253_T_1_A5992",
+            "paths": {
+                "bam": "gs://analysis_results/5992/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5992/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12367_T_1_A5991",
+            "paths": {
+                "bam": "gs://analysis_results/5991/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5991/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "12215_T_1_A5990",
+            "paths": {
+                "bam": "gs://analysis_results/5990/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5990/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        },
+        {
+            "name": "10961_T_1_A5989",
+            "paths": {
+                "bam": "gs://analysis_results/5989/mrkdup/mrkdup_Picard_MarkDuplicates.mrkdup.bam",
+                "bam_idx": "gs://analysis_results/5989/index_mrkdup_bam/mrkdup_Picard_MarkDuplicates.mrkdup.bam.bai"
+            }
+        }
+    ]
+}
