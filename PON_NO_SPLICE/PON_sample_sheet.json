@@ -3,12 +3,10 @@
         {
             "paths": {
                 "bam": {
-                    "operation": "AND",
-                    "values": ["filtersamreads", "rna"]
+                    "filtersamreads"
                 },
                 "bam_idx":  {
-                    "operation": "AND",
-                    "values": ["filtersamreads", "rna"]
+                    "filtersamreads"
                 }
             }
         }
