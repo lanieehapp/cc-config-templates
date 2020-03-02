@@ -2,12 +2,8 @@
     "samples": [
         {
             "paths": {
-                "bam": {
-                    "filtersamreads"
-                },
-                "bam_idx":  {
-                    "filtersamreads"
-                }
+                "bam": "filtersamreads",
+                "bam_idx": "filtersamreads"
             }
         }
     ]
