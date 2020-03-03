@@ -7,9 +7,10 @@
                 "bam": {
                     "operation": "OR",
                     "values": [
-                        "mrkdup",
                         "mergebams",
                         "makefinalbam",
+                        "mark",
+                        "duplicates",
                         {
                             "operation": "AND",
                             "values": ["picard", "rna"]
@@ -19,9 +20,10 @@
                 "bam_idx":  {
                     "operation": "OR",
                     "values": [
-                        "mrkdup",
                         "mergebams",
                         "makefinalbam",
+                        "mark",
+                        "duplicates",
                         {
                             "operation": "AND",
                             "values": ["picard", "rna"]
