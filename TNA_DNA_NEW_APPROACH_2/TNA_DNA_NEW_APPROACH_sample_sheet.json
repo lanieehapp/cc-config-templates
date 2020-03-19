@@ -1,0 +1,40 @@
+{
+    "paired_end": null,
+    "seq_platform": null,
+    "samples": [
+        {
+            "paths": {
+                "R1": {
+                    "operation": "OR",
+                    "values": [
+                        {
+                            "operation": "AND",
+                            "values": ["get","dna", "fastq"]
+                        },
+                        {
+                            "operation": "AND",
+                            "values": ["getdemuxfastq", "dnafastqs"]
+                        }
+                    ]
+                },
+                "R2":  {
+                    "operation": "OR",
+                    "values": [
+                        {
+                            "operation": "AND",
+                            "values": ["get","dna", "fastq"]
+                        },
+                        {
+                            "operation": "AND",
+                            "values": ["getdemuxfastq", "dnafastqs"]
+                        }
+                    ]
+                }
+            },
+            "lib_name": null,
+            "sample_name": null,
+            "sample_id": null,
+            "is_tumor": null
+        }
+    ]
+}
