@@ -10,7 +10,7 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["picard", "dna"]
+                            "values": ["picard", "dna", "altaware"]
                         }
                     ]
                 },
@@ -22,7 +22,7 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["picard", "dna"]
+                            "values": ["picard", "dna", "altaware"]
                         }
                     ]
                 }
