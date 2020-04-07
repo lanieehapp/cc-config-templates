@@ -5,24 +5,20 @@
                 "bam": {
                     "operation": "OR",
                     "values": [
-                        "mrkdup",
-                        "mergebams",
-                        "makefinalbam",
+                        "spliced", "nonspliced",
                         {
                             "operation": "AND",
-                            "values": ["filtersamreads", "spliced", "altaware", "nonspliced", "dna"]
+                            "values": ["filtersamreads", "dna"]
                         }
                     ]
                 },
                 "bam_idx":  {
                     "operation": "OR",
                     "values": [
-                        "mrkdup",
-                        "mergebams",
-                        "makefinalbam",
+                        "spliced", "nonspliced",
                         {
                             "operation": "AND",
-                            "values": ["filtersamreads", "spliced", "altaware", "nonspliced", "dna"]
+                            "values": ["filtersamreads", "dna"]
                         }
                     ]
                 }
