@@ -3,22 +3,22 @@
         {
             "paths": {
                 "bam": {
-                    "operation": "OR",
+                    "operation": "AND",
                     "values": [
-                        "spliced", "nonspliced",
+                        "filtersamreads", "altaware", "dna",
                         {
-                            "operation": "AND",
-                            "values": ["filtersamreads", "dna"]
+                            "operation": "OR",
+                            "values": ["spliced", "nonspliced"]
                         }
                     ]
                 },
                 "bam_idx":  {
-                    "operation": "OR",
+                    "operation": "AND",
                     "values": [
-                        "spliced", "nonspliced",
+                        "filtersamreads", "altaware", "dna",
                         {
-                            "operation": "AND",
-                            "values": ["filtersamreads", "dna"]
+                            "operation": "OR",
+                            "values": ["spliced", "nonspliced"]
                         }
                     ]
                 }
