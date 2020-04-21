@@ -1,0 +1,16 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "bam": {
+                    "operation": "AND",
+                    "values": ["filtersamreads", "nonspliced", "dna"]
+                },
+                "bam_idx":  {
+                    "operation": "AND",
+                    "values": ["filtersamreads", "nonspliced", "dna"]
+                }
+            }
+        }
+    ]
+}
