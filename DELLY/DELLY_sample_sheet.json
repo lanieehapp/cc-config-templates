@@ -10,7 +10,9 @@
                     "operation": "AND",
                     "values": ["filtersamreads", "nonspliced", "dna"]
                 }
-            }
+            },
+            "sample_id": null,
+            "sample_name": null
         }
     ]
 }
