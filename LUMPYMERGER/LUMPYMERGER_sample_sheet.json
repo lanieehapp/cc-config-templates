@@ -1,7 +1,9 @@
 {
     "samples": [
         {
-            "paths": "gt_vcf",
+            "paths": {
+                "gt_vcf": null
+            },
             "sample_name": null,
             "sample_id": null
         }
