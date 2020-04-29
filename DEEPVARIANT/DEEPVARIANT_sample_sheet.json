@@ -10,7 +10,7 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["picard", "dna", "altaware"]
+                            "values": ["filtersamreads", "nonspliced", "dna"]
                         }
                     ]
                 },
@@ -22,7 +22,7 @@
                         "makefinalbam",
                         {
                             "operation": "AND",
-                            "values": ["picard", "dna", "altaware"]
+                            "values": ["filtersamreads", "nonspliced", "dna"]
                         }
                     ]
                 }
