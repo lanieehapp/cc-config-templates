@@ -4,26 +4,20 @@
             "sample_name": "14032_T_1",
             "sample_id": "14032_T_1_A6263",
             "paths": {
-                "delly_merged_vcf": "s3://davelab-temp/6263/dellymerger/dellymerger_Dellymerger.delly.merged.vcf",
-                "lumpy_merged_vcf": null,
-                "destruct_merged_vcf": null
+                "delly_merged_vcf": "s3://davelab-temp/6263/dellymerger/dellymerger_Dellymerger.delly.merged.vcf"
             }
         },
         {
             "sample_name": "14032_T_1",
             "sample_id": "14032_T_1_A6262",
             "paths": {
-                "delly_merged_vcf": null,
-                "lumpy_merged_vcf": "s3://davelab-temp/6262/lumpymerger/lumpymerger_Lumpymerger.lumpy.merged.vcf",
-                "destruct_merged_vcf": null
+                "lumpy_merged_vcf": "s3://davelab-temp/6262/lumpymerger/lumpymerger_Lumpymerger.lumpy.merged.vcf"
             }
         },
         {
             "sample_name": "14032_T_1",
             "sample_id": "14032_T_1_A6259",
             "paths": {
-                "delly_merged_vcf": null,
-                "lumpy_merged_vcf": null,
                 "destruct_merged_vcf": "s3://davelab-temp/6259/destructmerger/destructmerger_Destructmerger.destruct.merged.vcf"
             }
         }
