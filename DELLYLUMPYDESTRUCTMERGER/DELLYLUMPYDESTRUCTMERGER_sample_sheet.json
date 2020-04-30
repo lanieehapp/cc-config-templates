@@ -3,7 +3,10 @@
         {
             "sample_id": null,
             "paths": {
-                "merged": "merged"
+                "merged": {
+                    "operation": "AND",
+                    "values": ["merged"]
+                }
             }
         }
     ]
