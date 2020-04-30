@@ -14,13 +14,23 @@
         {
             "sample_id": null,
             "paths": {
-                "lumpy_merged_vcf": null
+                "lumpy_merged_vcf": {
+                    "operation": "AND",
+                    "values": ["lumpy", "merged", "vcf"]
+                },
+                "delly_merged_vcf": null,
+                "destruct_merged_vcf": null
             }
         },
         {
             "sample_id": null,
             "paths": {
-                "destruct_merged_vcf": null
+                "destruct_merged_vcf": {
+                    "operation": "AND",
+                    "values": ["destruct", "merged", "vcf"]
+                },
+                "lumpy_merged_vcf": null,
+                "delly_merged_vcf": null
             }
         }
     ]
