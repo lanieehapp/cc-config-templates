@@ -3,19 +3,19 @@
         {
             "sample_id": null,
             "paths": {
-                "delly_merged_vcf": "s3://davelab-temp/6263/dellymerger/dellymerger_Dellymerger.delly.merged.vcf"
+                "delly_merged_vcf": null
             }
         },
         {
             "sample_id": null,
             "paths": {
-                "lumpy_merged_vcf": "s3://davelab-temp/6262/lumpymerger/lumpymerger_Lumpymerger.lumpy.merged.vcf"
+                "lumpy_merged_vcf": null
             }
         },
         {
             "sample_id": null,
             "paths": {
-                "destruct_merged_vcf": "s3://davelab-temp/6259/destructmerger/destructmerger_Destructmerger.destruct.merged.vcf"
+                "destruct_merged_vcf": null
             }
         }
     ]
