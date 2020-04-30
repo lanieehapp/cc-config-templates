@@ -3,9 +3,7 @@
         {
             "sample_id": null,
             "paths": {
-                "delly_merged_vcf": "merged",
-                "lumpy_merged_vcf": "merged",
-                "destruct_merged_vcf": "merged"
+                "merged": "merged"
             }
         }
     ]
