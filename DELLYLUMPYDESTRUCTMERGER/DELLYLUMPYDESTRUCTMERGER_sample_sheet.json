@@ -3,7 +3,10 @@
         {
             "sample_id": null,
             "paths": {
-                "delly_merged_vcf": null
+                "delly_merged_vcf": {
+                    "operation": "AND",
+                    "values": ["delly", "merged", "vcf"]
+                }
             }
         },
         {
