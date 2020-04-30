@@ -5,32 +5,16 @@
             "paths": {
                 "delly_merged_vcf": {
                     "operation": "AND",
-                    "values": ["delly", "merged", "vcf"]
+                    "values": ["merged", "vcf"]
                 },
-                "lumpy_merged_vcf": null,
-                "destruct_merged_vcf": null
-            }
-        },
-        {
-            "sample_id": null,
-            "paths": {
                 "lumpy_merged_vcf": {
                     "operation": "AND",
-                    "values": ["lumpy", "merged", "vcf"]
+                    "values": ["merged", "vcf"]
                 },
-                "delly_merged_vcf": null,
-                "destruct_merged_vcf": null
-            }
-        },
-        {
-            "sample_id": null,
-            "paths": {
                 "destruct_merged_vcf": {
                     "operation": "AND",
-                    "values": ["destruct", "merged", "vcf"]
-                },
-                "lumpy_merged_vcf": null,
-                "delly_merged_vcf": null
+                    "values": ["merged", "vcf"]
+                }
             }
         }
     ]
