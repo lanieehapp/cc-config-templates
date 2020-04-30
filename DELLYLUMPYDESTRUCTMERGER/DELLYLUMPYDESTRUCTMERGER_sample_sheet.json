@@ -6,7 +6,9 @@
                 "delly_merged_vcf": {
                     "operation": "AND",
                     "values": ["delly", "merged", "vcf"]
-                }
+                },
+                "lumpy_merged_vcf": null,
+                "destruct_merged_vcf": null
             }
         },
         {
