@@ -1,22 +1,19 @@
 {
     "samples": [
         {
-            "sample_name": "14032_T_1",
-            "sample_id": "14032_T_1_A6263",
+            "sample_id": null,
             "paths": {
                 "delly_merged_vcf": "s3://davelab-temp/6263/dellymerger/dellymerger_Dellymerger.delly.merged.vcf"
             }
         },
         {
-            "sample_name": "14032_T_1",
-            "sample_id": "14032_T_1_A6262",
+            "sample_id": null,
             "paths": {
                 "lumpy_merged_vcf": "s3://davelab-temp/6262/lumpymerger/lumpymerger_Lumpymerger.lumpy.merged.vcf"
             }
         },
         {
-            "sample_name": "14032_T_1",
-            "sample_id": "14032_T_1_A6259",
+            "sample_id": null,
             "paths": {
                 "destruct_merged_vcf": "s3://davelab-temp/6259/destructmerger/destructmerger_Destructmerger.destruct.merged.vcf"
             }
