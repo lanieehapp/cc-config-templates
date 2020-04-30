@@ -2,12 +2,8 @@
     "samples": [
         {
             "paths": {
-                "delly_merged_vcf": null,
-                "lumpy_merged_vcf": null,
-                "destruct_merged_vcf": null
-            },
-            "sample_name": null,
-            "sample_id": null
+                "merged_vcf": null
+            }
         }
     ]
 }
