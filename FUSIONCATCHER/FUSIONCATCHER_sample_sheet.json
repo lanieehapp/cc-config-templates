@@ -2,8 +2,14 @@
     "samples": [
         {
             "paths": {
-                "R1": null,
-                "R2": null
+                "R1": {
+                    "operation": "AND",
+                    "values": ["RNA", "R1", "fastq"]
+                },
+                "R2": {
+                    "operation": "AND",
+                    "values": ["RNA", "R1", "fastq"]
+                }
             },
             "sample_id": null
         }
