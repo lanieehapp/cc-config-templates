@@ -2,8 +2,8 @@
     "samples": [
         {
             "paths": {
-                "R1": "RNA.R1.fastq",
-                "R2": "RNA.R2.fastq"
+                "R1": "1.RNA.R1.fastq",
+                "R2": "1.RNA.R2.fastq"
             },
             "sample_id": null
         }
