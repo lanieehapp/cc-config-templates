@@ -2,14 +2,8 @@
     "samples": [
         {
             "paths": {
-                "R1": {
-                    "operation": "AND",
-                    "values": ["utils", "getdemuxfastq", "rnafastq"]
-                },
-                "R2": {
-                    "operation": "AND",
-                    "values": ["utils", "getdemuxfastq", "rnafastq"]
-                }
+                "R1": "RNA.R1.fastq",
+                "R2": "RNA.R2.fastq"
             },
             "sample_id": null
         }
