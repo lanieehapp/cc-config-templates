@@ -2,7 +2,7 @@
     "samples": [
         {
             "paths": {
-                "hc_vcf": {
+                "vcf_gz": {
                     "operation": "AND",
                     "values": [
                         "haplotypecaller", "dna"
