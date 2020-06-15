@@ -2,10 +2,22 @@
     "samples": [
         {
             "paths": {
-                "vcf_gz": {
+                "hc_vcf": {
                     "operation": "AND",
                     "values": [
                         "haplotypecaller", "dna"
+                    ]
+                },
+                "s2_vcf": {
+                    "operation": "AND",
+                    "values": [
+                        "strelka", "dna"
+                    ]
+                },
+                "dv_vcf": {
+                    "operation": "AND",
+                    "values": [
+                        "deepvariant", "dna"
                     ]
                 }
             }
