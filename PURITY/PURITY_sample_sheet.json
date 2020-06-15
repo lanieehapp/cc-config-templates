@@ -2,7 +2,29 @@
     "samples": [
         {
             "paths": {
-                "vcf_gz": null
+                "vcf_gz": {
+                    "operation": "OR",
+                    "values": [
+                        {
+                            "operation": "AND",
+                            "values": [
+                                "haplotypecaller", "dna", "altaware"
+                            ]
+                        },
+                        {
+                            "operation": "AND",
+                            "values": [
+                                "strelka", "dna"
+                            ]
+                        },
+                        {
+                            "operation": "AND",
+                            "values": [
+                                "deepvariant", "dna"
+                            ]
+                        }
+                    ]
+                }
             },
             "sample_id": null,
             "sample_name": null
