@@ -8,7 +8,7 @@
                         "haplotypecaller", "dna"
                     ]
                 },
-                "s2_vcf": {
+                "vcf_gz": {
                     "operation": "AND",
                     "values": [
                         "strelka", "dna"
