@@ -1,0 +1,11 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "vcf_gz": null
+            },
+            "sample_id": null,
+            "sample_name": null
+        }
+    ]
+}
