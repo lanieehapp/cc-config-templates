@@ -3,26 +3,9 @@
         {
             "paths": {
                 "vcf_gz": {
-                    "operation": "OR",
+                    "operation": "AND",
                     "values": [
-                        {
-                            "operation": "AND",
-                            "values": [
-                                "haplotypecaller", "dna"
-                            ]
-                        },
-                        {
-                            "operation": "AND",
-                            "values": [
-                                "strelka", "dna"
-                            ]
-                        },
-                        {
-                            "operation": "AND",
-                            "values": [
-                                "deepvariant", "dna"
-                            ]
-                        }
+                        "haplotypecaller", "dna"
                     ]
                 }
             }
