@@ -8,7 +8,7 @@
                         {
                             "operation": "AND",
                             "values": [
-                                "haplotypecaller", "dna", "altaware"
+                                "haplotypecaller", "dna"
                             ]
                         },
                         {
