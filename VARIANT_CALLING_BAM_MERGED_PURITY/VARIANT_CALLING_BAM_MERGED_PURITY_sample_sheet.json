@@ -1,0 +1,32 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "bam": {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["filtersamreads", "nonspliced", "dna"]
+                        }
+                    ]
+                },
+                "bam_idx":  {
+                    "operation": "OR",
+                    "values": [
+                        "mrkdup",
+                        "mergebams",
+                        "makefinalbam",
+                        {
+                            "operation": "AND",
+                            "values": ["filtersamreads", "nonspliced", "dna"]
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
