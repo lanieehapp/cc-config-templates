@@ -1,0 +1,11 @@
+{
+    "samples": [
+        {
+            "sample_name": null,
+            "sample_id": null,
+            "paths": {
+                "transcriptome_mapped_bam": null
+            }
+        }
+    ]
+}
