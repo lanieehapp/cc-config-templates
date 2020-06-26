@@ -3,30 +3,16 @@
         {
             "paths": {
                 "bam": {
-                    "operation": "OR",
-                    "values": [
-                        "mrkdup",
-                        "mergebams",
-                        "makefinalbam",
-                        {
-                            "operation": "AND",
-                            "values": ["picard", "dna"]
-                        }
-                    ]
+                    "operation": "AND",
+                    "values": ["filtersamreads", "nonspliced", "dna"]
                 },
                 "bam_idx":  {
-                    "operation": "OR",
-                    "values": [
-                        "mrkdup",
-                        "mergebams",
-                        "makefinalbam",
-                        {
-                            "operation": "AND",
-                            "values": ["picard", "dna"]
-                        }
-                    ]
+                    "operation": "AND",
+                    "values": ["filtersamreads", "nonspliced", "dna"]
                 }
-            }
+            },
+            "sample_id": null,
+            "sample_name": null
         }
     ]
 }
