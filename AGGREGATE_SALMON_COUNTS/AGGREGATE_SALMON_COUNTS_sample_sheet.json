@@ -1,0 +1,13 @@
+{
+    "samples": [
+        {
+            "name": null,
+            "sample_name": null,
+            "sample_id": null,
+            "paths": {
+                "quant_gene_counts": null,
+                "quant_gene_tpm": null
+            }
+        }
+    ]
+}
