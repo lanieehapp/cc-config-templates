@@ -1,0 +1,15 @@
+{
+    "paired_end": null,
+    "seq_platform": null,
+    "samples": [
+        {
+            "paths": {
+                "quant_gene_counts": null
+            },
+            "lib_name": null,
+            "sample_name": null,
+            "sample_id": null,
+            "is_tumor": null
+        }
+    ]
+}
