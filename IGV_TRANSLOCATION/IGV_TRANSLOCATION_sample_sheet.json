@@ -1,0 +1,12 @@
+{
+    "samples": [
+        {
+            "paths": {
+                "bam": "discowave",
+                "bam_idx": "discowave"
+            },
+            "sample_id": null,
+            "sample_name": null
+        }
+    ]
+}
