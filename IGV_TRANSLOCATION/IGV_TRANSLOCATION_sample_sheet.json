@@ -3,7 +3,8 @@
         {
             "paths": {
                 "bam": "discowave",
-                "bam_idx": "discowave"
+                "bam_idx": "discowave",
+                "translocation_table": "discowave"
             },
             "sample_id": null,
             "sample_name": null
