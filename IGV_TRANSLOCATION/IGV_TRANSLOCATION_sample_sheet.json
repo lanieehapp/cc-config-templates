@@ -4,7 +4,7 @@
             "paths": {
                 "bam": "discowave",
                 "bam_idx": "discowave",
-                "translocation_table": "discowave"
+                "anno_vcf": "Dellylumpydestruct_anno_merger"
             },
             "sample_id": null,
             "sample_name": null
