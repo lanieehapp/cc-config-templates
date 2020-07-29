@@ -2,8 +2,10 @@
     "samples": [
         {
             "paths": {
-                "bam": "discowave",
-                "bam_idx": "discowave",
+                "bam": "filter_chrom_reads",
+                "bam_idx": "filter_chrom_reads",
+                "non_split_bam": "discowave",
+                "non_split_bam_idx": "discowave",
                 "anno_vcf": "Dellylumpydestruct_anno_merger"
             },
             "sample_id": null,
